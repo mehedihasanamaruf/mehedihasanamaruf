@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on Django.
 - 📫 How to reach me ? 
-via facebook, insta, what's app.
+via facebook, linkedin, what's app.
 
 <!---
 mehedihasanamaruf/mehedihasanamaruf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
